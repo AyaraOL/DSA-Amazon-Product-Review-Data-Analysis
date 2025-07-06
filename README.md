@@ -1,4 +1,4 @@
-# 📦 AMAZON PRODUCT REVIEW ANALYSIS – DSA CAPSTONE PROJECT
+# 📦   AMAZON PRODUCT REVIEW ANALYSIS – DSA CAPSTONE PROJECT
 Exploratory Data Analysis on Amazon product reviews using Excel – uncovering trends in ratings, reviews, pricing, and category performance.
 ## 📌 Project Description
 This project is part of the DSA Data Analysis Capstone and focuses on performing Exploratory Data Analysis (EDA) on Amazon product review data. The objective is to extract insights that can inform product development, pricing strategy, and customer engagement using Microsoft Excel.
@@ -10,7 +10,7 @@ Excel Formulas
 Calculated Columns
 Excel Dashboard Design
 ## 🎯 Project Objectives
-. Calculate the average discount % by product category
+Calculate the average discount % by product category
 Identify the number of products and total reviews by category
 Determine products with the highest ratings and most reviews
 Analyze price distribution and compare actual vs discounted prices

@@ -10,7 +10,7 @@ Excel Formulas
 Calculated Columns
 Excel Dashboard Design
 ## 🎯 Project Objectives
-Calculate the average discount % by product category
+. Calculate the average discount % by product category
 Identify the number of products and total reviews by category
 Determine products with the highest ratings and most reviews
 Analyze price distribution and compare actual vs discounted prices

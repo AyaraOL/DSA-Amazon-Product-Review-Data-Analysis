@@ -4,14 +4,14 @@ Exploratory Data Analysis on Amazon product reviews using Excel – uncovering t
 This project is part of the DSA Data Analysis Capstone and focuses on performing Exploratory Data Analysis (EDA) on Amazon product review data. The objective is to extract insights that can inform product development, pricing strategy, and customer engagement using Microsoft Excel.
 
 ## 🧰 Tools Used
-Microsoft Excel
-Pivot Tables
-Excel Formulas
-Calculated Columns
-Excel Dashboard Design
+* Microsoft Excel
+* Pivot Tables
+* Excel Formulas
+* Calculated Columns
+* Excel Dashboard Design
 ## 🎯 Project Objectives
-Calculate the average discount % by product category
-Identify the number of products and total reviews by category
+- Calculate the average discount % by product category
+- Identify the number of products and total reviews by category
 Determine products with the highest ratings and most reviews
 Analyze price distribution and compare actual vs discounted prices
 Estimate potential revenue by multiplying price with review count
@@ -30,7 +30,7 @@ A few products significantly outperform others in both rating and review count.
 Revenue estimation based on actual_price × review_count highlights the top-grossing categories.
 ## 📁 Project Files
 AMAZON CASE STUDY – Contains:
-Cleaned data
-Pivot Tables
-Calculated columns
-Excel Dashboard with charts
+* Cleaned data
+* Pivot Tables
+* Calculated columns
+* Excel Dashboard with charts
